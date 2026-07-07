@@ -1,11 +1,11 @@
-🚀 LeetCode Hub
+# 🚀 LeetCode Hub
 
 «Consistency beats intensity.
 A curated collection of my LeetCode solutions, documenting my journey to mastering Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.»
 
 ---
 
-📖 About
+## 📖 About
 
 This repository contains my solutions to LeetCode problems, implemented with a strong focus on:
 
@@ -17,7 +17,7 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - 💻 C++
 - 🐍 Python (planned)
@@ -25,17 +25,17 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 
 ---
 
-📂 Repository Structure
-
+## 📂 Repository Structure
+```
 LeetCode-Hub/
 ├── Easy/
 ├── Medium/
 ├── Hard/
 └── README.md
-
+```
 ---
 
-📌 Every Solution Includes
+## 📌 Every Solution Includes
 
 - ✅ Optimized source code
 - ✅ Time Complexity
@@ -45,7 +45,7 @@ LeetCode-Hub/
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Solve LeetCode problems consistently.
 - Master Data Structures & Algorithms.
@@ -55,7 +55,7 @@ LeetCode-Hub/
 
 ---
 
-📊 Progress
+## 📊 Progress
 
 Difficulty| Solved
 🟢 Easy| 0
@@ -67,13 +67,13 @@ Total| 0
 
 ---
 
-🌱 Learning Journey
+## 🌱 Learning Journey
 
 Every solved problem is a step toward becoming a better software engineer. This repository reflects my commitment to continuous learning, consistency, and writing high-quality code.
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you find this repository useful or inspiring, consider giving it a ⭐.
 
