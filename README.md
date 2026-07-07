@@ -1,7 +1,7 @@
 # 🚀 LeetCode Hub
 ---
   
-### A curated collection of my LeetCode solutions, documenting my journey to mastering Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.
+### A curated collection of my LeetCode solutions, helping students in mastering Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.
 
 ---
 
@@ -20,8 +20,8 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 ## 🛠️ Tech Stack
 
 - 💻 C++
-- 🐍 Python (planned)
-- ☕ Java (planned)
+- 🐍 Python (coming soon)
+- ☕ Java (coming later)
 
 ---
 
@@ -40,7 +40,7 @@ LeetCode-Hub/
 - ✅ Optimized source code
 - ✅ Time Complexity
 - ✅ Space Complexity
-- ✅ Clear implementation
+- ✅ Clean implementation
 - ✅ Helpful comments (when needed)
 
 ---
@@ -50,8 +50,8 @@ LeetCode-Hub/
 - Solve LeetCode problems consistently.
 - Master Data Structures & Algorithms.
 - Improve logical and analytical thinking.
-- Prepare for coding interviews.
-- Build a strong and professional GitHub portfolio.
+- Prepare a helpful resource for coding interview preparations.
+- Build consistency and problem solving skills.
 
 ---
 
