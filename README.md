@@ -22,7 +22,7 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 Prepare for technical interviews with curated problem sets from top tech companies. Each company folder contains categorized solutions, while the corresponding CSV file provides an organized list of frequently asked questions.
 
 | Company | Resources |
-| :------: | :-------: |
+| :------ | :-------: |
 | 🟠 Amazon | 📁 Solutions • 📄 CSV |
 | 🔵 Google | 📁 Solutions • 📄 CSV |
 | 🟣 Microsoft | 📁 Solutions • 📄 CSV |
